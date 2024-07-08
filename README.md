@@ -13,3 +13,6 @@ This repository is built step by step in the tutorial.
 
 conflit conflit conflit!
 Test new conflit!
+
+Third conflict!
+cscgdghjdcgje
